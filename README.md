@@ -1,4 +1,4 @@
-# 🐍 Python Weekly Practice
+# 🐍 Python Practice
 
 ## 📌 About This Folder
 
